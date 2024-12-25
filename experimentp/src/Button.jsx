@@ -2,7 +2,7 @@ function Button()
 {
     return(
         
-        <Button className="button">Click me!</Button>
+        <button className="button">Click me!</button>
         
     );
 }
