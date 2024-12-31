@@ -1,0 +1,41 @@
+.container{
+    border:1px solid green;
+   width: 70vw;
+}
+.header{
+    padding: 10px;
+    display:flex;
+    border: 1px solid red;
+}
+.heading{
+    flex: 1;
+}
+.menu{
+    flex:2;
+}
+.menu span{
+    margin-left: 20px;
+}
+.footer{
+    border:1px solid red;
+}
+.slogo span
+{
+    margin-left: 30px;
+}
+.slogo{
+    padding: 10px;
+    text-align: right;
+    margin-right: 50px;
+}
+.content{
+    display: inline-flex;
+    /* border: 1px solid yellowgreen; */
+}
+.plogo{
+    flex: 1;
+}
+.pdetails{
+flex: 2;
+margin-left:  50px;
+}
